@@ -23,7 +23,7 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rusik-best86&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rusik-best86)  
+
 
 ![Profile views](https://gpvc.arturio.dev/Rusik-best86)  
 
