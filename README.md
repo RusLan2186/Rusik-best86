@@ -10,7 +10,7 @@
 ###  :zap: Skills: 
  ### HTML / CSS / JS / SCSS/SASS / Adaptive Layout / Responsive  Cross-Browser Compatibility / CSS/JS Animation / Parallax Scrolling / Using Grid, FlexBox, Swiper / Writing Simple, Readable, Context-Independent Code / Methodology BEM / Work With Graphic Editors Figma, Photoshop
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -21,7 +21,7 @@
 </div>
 
 
-### - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ruslananatolievich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ruslanchikbest86) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruslanchikbest@gmail.com)
+### - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-ruslananatolievich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ruslanchikbest86) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruslanchikbest@gmail.com)
 
 
 
