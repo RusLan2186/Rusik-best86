@@ -3,7 +3,7 @@
 
 
 
-Skills: 
+### Skills: 
 #### HTML
 #### CSS
 #### JavaScript
