@@ -7,7 +7,7 @@
 ### :telescope: Education:
 Ukrainian Engineering-Pedagogical Academy
 
-
+---
 
 ### :man_technologist: About me:
 ### Responsible:
@@ -16,11 +16,11 @@ Ukrainian Engineering-Pedagogical Academy
 - I don't take advance payment
  - Always in touch
 
-
+---
 
 ###  :zap: Skills: 
  ### HTML / CSS / JS / SCSS/SASS / Adaptive Layout / Responsive  Cross-Browser Compatibility / CSS/JS Animation / Parallax Scrolling / Using Grid, FlexBox, Swiper / Writing Simple, Readable, Context-Independent Code / Methodology BEM / Work With Graphic Editors Figma, Photoshop
-
+---
 ### 💻 Technologies:
 
 <div>
@@ -30,7 +30,7 @@ Ukrainian Engineering-Pedagogical Academy
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
  
 </div>
-
+---
 ### 🛠 Tools:
 
 <div>
