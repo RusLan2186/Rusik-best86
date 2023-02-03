@@ -3,8 +3,8 @@
 
 
 
-##Skills: 
-####HTML
+Skills: 
+###HTML
 #### CSS
 #### JavaScript
 #### SCSS/SASS
