@@ -19,10 +19,7 @@ Skills:
 
 
 
-- 🔭 I’m currently working on this page. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rusik-best86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ruslanchikbest)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rusik-best86&show_icons=true)  
 
