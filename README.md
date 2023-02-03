@@ -3,6 +3,12 @@
 
 ---
 
+
+### Education:
+Ukrainian Engineering-Pedagogical Academy
+
+
+
 ### :man_technologist: About me:
 Responsible:
 - Ready to start work now
