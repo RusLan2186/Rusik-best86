@@ -3,10 +3,11 @@
 
 
 
-Skills: 
-# CSS
-# JavaScript
-# SCSS/SASS
+##Skills: 
+####HTML
+#### CSS
+#### JavaScript
+#### SCSS/SASS
 Adaptive Layout
 Responsive
 Cross-Browser Compatibility
