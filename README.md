@@ -1,5 +1,5 @@
-# Hi, my name is Ruslan!
-  ### I am a beginner frontend developer 
+# Hi! i'm Ruslan!
+   I am a beginner frontend developer 
 
 ---
 
