@@ -4,9 +4,9 @@
 
 
 Skills: 
-CSS
-JavaScript
-SCSS/SASS
+### CSS
+### JavaScript
+### SCSS/SASS
 Adaptive Layout
 Responsive
 Cross-Browser Compatibility
