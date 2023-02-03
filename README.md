@@ -1,5 +1,7 @@
 Привет, меня зовут Руслан!
 
+Я начинающий FRONT-END разработчик
+
 <!--
 **Rusik-best86/Rusik-best86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
