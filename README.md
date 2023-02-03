@@ -1,4 +1,4 @@
-# Hi! i'm Ruslan!
+ Hi. I'm Ruslan!
    I am a beginner frontend developer 
 
 ---
