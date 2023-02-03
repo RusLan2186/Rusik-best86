@@ -4,7 +4,7 @@
 
 
 Skills: 
-###HTML
+#### HTML
 #### CSS
 #### JavaScript
 #### SCSS/SASS
