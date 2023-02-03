@@ -13,7 +13,7 @@ Skills:
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ruslan-anatolievich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ruslanchikbest86) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruslanchikbest@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ruslananatolievich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ruslanchikbest86) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruslanchikbest@gmail.com)
 
 
 
