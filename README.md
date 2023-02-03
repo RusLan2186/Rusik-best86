@@ -10,11 +10,11 @@ Ukrainian Engineering-Pedagogical Academy
 
 
 ### :man_technologist: About me:
-## Responsible:
+ Responsible:
 - Ready to start work now
 - I always bring the work to the end
 - I don't take advance payment
-- Always in touch
+## - Always in touch
 
 
 
