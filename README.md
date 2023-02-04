@@ -4,8 +4,8 @@
 ---
 
 
-## :telescope: Education:
-# Ukrainian Engineering-Pedagogical Academy
+### :telescope: Education:
+### Ukrainian Engineering-Pedagogical Academy
 
 ---
 
