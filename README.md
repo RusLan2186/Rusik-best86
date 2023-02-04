@@ -4,10 +4,7 @@
 ---
 
 
-### :telescope: Education:
-### Ukrainian Engineering-Pedagogical Academy
 
----
 
 ### :man_technologist: About me:
 ### Responsible:
