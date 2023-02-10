@@ -3,7 +3,7 @@
 
 ---
 
-### my portfolio page
+### My portfolio page
 
 ### http://ruslan86-portfolio.zzz.com.ua/
 
