@@ -19,7 +19,7 @@
 ---
 
 ###  :zap: Skills: 
- ### HTML / CSS / JS / React/Redux/TypeScript/SCSS/SASS / Adaptive Layout / Responsive  Cross-Browser Compatibility / CSS/JS Animation / Parallax Scrolling / Using Grid, FlexBox, Swiper / Writing Simple, Readable, Context-Independent Code / Methodology BEM / Work With Graphic Editors Figma, Photoshop
+ ### HTML / CSS / JS / React /Redux /TypeScript /SCSS/SASS / Adaptive Layout / Responsive  Cross-Browser Compatibility / CSS/JS Animation / Parallax Scrolling / Using Grid, FlexBox, Swiper / Writing Simple, Readable, Context-Independent Code / Methodology BEM / Work With Graphic Editors Figma, Photoshop
 ---
 
 ### :telescope: Education:
