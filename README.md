@@ -1,5 +1,5 @@
  ### Hi. I'm Ruslan!
-  ### I am a beginner frontend developer 
+  ### I'm a beginner frontend developer 
 
 ---
 
