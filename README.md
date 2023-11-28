@@ -1,5 +1,5 @@
  ### Hi. I'm Ruslan!
-  ### I'm a beginner frontend developer. I've been studying frontend technologies for over a year. I have several pet projects, where I used HTML, CSS (including preprocessor SCSS), native JS, React, Redux, MobX, Typescript. These projects are fully responsive and cross-browser compatible.
+  ### I'm a beginner frontend developer. I've been studying frontend technologies for over a year. I really enjoy creating reliable websites and applications.
 
 ---
 ###  :zap: Skills: 
