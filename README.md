@@ -2,6 +2,9 @@
   ### I'm a beginner frontend developer. I've been studying frontend technologies for over a year. I have several pet projects, where I used HTML, CSS (including preprocessor SCSS), native JS, React, Redux, MobX, Typescript. These projects are fully responsive and cross-browser compatible.
 
 ---
+###  :zap: Skills: 
+ ### HTML / CSS ( SCSS/SASS) / JS / TypeScript / React / Redux (Redux Toolkit) / MobX / Figma /
+---
 
 ### My portfolio page
 
@@ -18,9 +21,7 @@
 
 ---
 
-###  :zap: Skills: 
- ### HTML / CSS ( SCSS/SASS) / JS / TypeScript / React / Redux (Redux Toolkit) / MobX / Figma /
----
+
 
 ### :telescope: Education:
 ### Ukrainian Engineering-Pedagogical Academy
