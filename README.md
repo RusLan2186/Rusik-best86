@@ -19,7 +19,7 @@
 ---
 
 ###  :zap: Skills: 
- ### HTML / CSS ( SCSS/SASS) / JS / TypeScript / React / Redux (Redux Toolkit)/ MobX / Figma /
+ ### HTML / CSS ( SCSS/SASS) / JS / TypeScript / React / Redux (Redux Toolkit) / MobX / Figma /
 ---
 
 ### :telescope: Education:
