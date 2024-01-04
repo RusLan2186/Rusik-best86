@@ -6,9 +6,7 @@
  ### HTML / CSS ( SCSS/SASS) / JS / TypeScript / React / Redux (Redux Toolkit) / MobX / Figma /
 ---
 
-### My portfolio page
 
-### https://rusik-best86.github.io/Portfolio/
 
 ---
 
